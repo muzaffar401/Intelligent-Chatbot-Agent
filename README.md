@@ -33,8 +33,8 @@ Users can interact with different agents by selecting them from a set of predefi
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/multi-agent-chatbot.git
-   cd multi-agent-chatbot
+   git clone https://github.com/muzaffar401/Intelligent-Chatbot-Agent.git
+   cd Intelligent-Chatbot-Agent
    ```
 
 2. Install the required dependencies:
@@ -64,12 +64,12 @@ To run the project locally:
 
 1. Navigate to the project directory:
    ```bash
-   cd multi-agent-chatbot
+   cd Intelligent-Chatbot-Agent
    ```
 
 2. Start the Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run Advance_Agent.py
    ```
 
 3. Once the app is running, open your web browser and go to `http://localhost:8501` to access the chatbot.
@@ -96,7 +96,7 @@ To run the project locally:
 
 ## Code Structure
 
-### 1. `app.py`
+### 1. `Advance_Agent.py`
 This is the main file that runs the Streamlit app. It handles the UI and interacts with the Gemini API to provide responses from the selected agent.
 
 ### 2. `.env`
@@ -151,4 +151,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-If you have any questions, feel free to reach out at [muzaffarahmed@example.com](mailto:muzaffarahmed@example.com).
+If you have any questions, feel free to reach out at [muzaffarahmed@example.com](mailto:ma9400667@gmail.com).
